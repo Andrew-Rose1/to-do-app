@@ -1,7 +1,13 @@
 # to-do-app
 This is a small To-Do application for mobile devices. The purpose of this project was to further develop my skills with React Native.
 
-<img width="303" alt="Screen Shot 2022-05-20 at 9 01 33 PM" src="https://user-images.githubusercontent.com/55816533/169634687-1e85ed87-8d5f-4886-a877-26711d53e34d.png">    <img width="303" alt="Screen Shot 2022-05-20 at 9 02 11 PM" src="https://user-images.githubusercontent.com/55816533/169634693-050b5b23-59c2-445d-8bd5-98a9ddc75307.png">    <img width="303" alt="Screen Shot 2022-05-20 at 9 02 27 PM" src="https://user-images.githubusercontent.com/55816533/169634695-f99e6bc1-2a01-4ec3-8406-963ba0d10c7c.png">
+<div>
+<img width="250" alt="Screen Shot 2022-05-20 at 9 01 33 PM" src="https://user-images.githubusercontent.com/55816533/169634687-1e85ed87-8d5f-4886-a877-26711d53e34d.png">
+
+<img width="250" alt="Screen Shot 2022-05-20 at 9 02 11 PM" src="https://user-images.githubusercontent.com/55816533/169634693-050b5b23-59c2-445d-8bd5-98a9ddc75307.png">
+  
+<img width="250" alt="Screen Shot 2022-05-20 at 9 02 27 PM" src="https://user-images.githubusercontent.com/55816533/169634695-f99e6bc1-2a01-4ec3-8406-963ba0d10c7c.png">
+</div>
 
 
 ## Getting Started
